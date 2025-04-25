@@ -1,6 +1,6 @@
 ## 🏪 Webshop-school-project ##
 
-This is a basic Java app for managing customers, products, and orders. It uses plain Java and SQLite and is made for a school project to cover the required tasks.
+This is a basic Java app for managing customers, products, and orders. It uses plain Java and SQLite and is made for a school project.
 ---
 
 ## 📦Tech Stack
