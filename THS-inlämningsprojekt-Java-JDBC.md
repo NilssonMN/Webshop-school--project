@@ -1,4 +1,4 @@
-[# Kravspecifikation: Webshop-projekt ##
+## Kravspecifikation: Webshop-projekt ##
 
 ## Trelagerarkitektur
 Projektet ska implementeras med trelagerarkitektur:
