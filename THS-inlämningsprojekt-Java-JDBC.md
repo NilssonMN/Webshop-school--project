@@ -6,7 +6,6 @@ Projektet ska implementeras med trelagerarkitektur:
 - Affärslogiklager (service-klasser)
 - Datalager (repository/DAO)
 
-## Krav för Godkänt (G)
 
 ### Kunder
 - Göra en INSERT till customers-tabellen
