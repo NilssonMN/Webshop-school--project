@@ -6,7 +6,7 @@ This is a basic Java app for managing customers, products, and orders. It uses p
 ## 📦Tech Stack
 
 - **Language**: Java 17
-- **Database**: SQLite (using better-sqlite3 or sqlite3)
+- **Database**: SQLite
 
 ---
 
